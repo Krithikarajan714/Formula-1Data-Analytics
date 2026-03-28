@@ -66,8 +66,6 @@ The project follows a structured data analytics pipeline:
 
 ## 📊 Pace Distribution
 
-![Pace Distribution](outputs/pace_distribution.png)
-
 ### Description
 
 This chart visualizes the distribution of lap times for each driver, helping assess both **speed and consistency**.
@@ -81,8 +79,6 @@ This chart visualizes the distribution of lap times for each driver, helping ass
 ---
 
 ## 📈 Gap to Leader
-
-![Gap to Leader](outputs/gap_to_leader.png)
 
 ### Description
 
@@ -98,7 +94,7 @@ This visualization tracks how far each driver is behind the race leader over tim
 
 ## 🟡 Tyre Degradation
 
-![Tyre Degradation](outputs/degradation.png)
+
 
 ### Description
 
@@ -114,7 +110,7 @@ This chart shows how lap times increase as tyre age increases, highlighting degr
 
 ## 🔵 Wear Score (Custom Metric)
 
-![Wear Score](outputs/wear_score.png)
+
 
 ### Description
 
